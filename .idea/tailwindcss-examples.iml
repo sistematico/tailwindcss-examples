@@ -8,5 +8,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="b669bd71a0" level="application" />
+    <orderEntry type="library" name="@lottiefiles/lottie-player" level="application" />
   </component>
 </module>
